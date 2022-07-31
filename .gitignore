@@ -66,3 +66,4 @@ website/yarn.lock
 __debug_bin
 
 db.sqlite3
+/.idea/
