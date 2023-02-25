@@ -32,7 +32,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tg123/go-htpasswd v1.0.0
 	github.com/vishvananda/netlink v1.1.0
-	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899
+	golang.org/x/crypto v0.1.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200609130330-bd2cb7843e1b
 	google.golang.org/appengine v1.6.6 // indirect
